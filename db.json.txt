@@ -1,0 +1,8 @@
+{
+    "orders": [
+      { "id": 1, "customerName": "John Doe", "orderDate": "2025-04-10", "amount": 120.50, "status": "Pending" },
+      { "id": 2, "customerName": "Jane Smith", "orderDate": "2025-04-11", "amount": 89.99, "status": "Shipped" },
+      { "id": 3, "customerName": "Bob Johnson", "orderDate": "2025-04-12", "amount": 200.00, "status": "Delivered" },
+      { "id": 4, "customerName": "Alice Brown", "orderDate": "2025-04-13", "amount": 45.75, "status": "Pending" }
+    ]
+  }
